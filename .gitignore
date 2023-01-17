@@ -1,0 +1,47 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Videos
+/uusyritys
+/source
+/sh-keygen -t ed25519 -C Läppäri
+/Searches
+/Saved Games
+/random.dat
+/philiphs-hue
+/package.json
+/OneDrive
+/ntuser.ini
+/NTUSER.DAT{cba41398-d4c3-11eb-a320-ab198e8280d1}.TMContainer00000000000000000002.regtrans-ms
+/NTUSER.DAT{cba41398-d4c3-11eb-a320-ab198e8280d1}.TMContainer00000000000000000001.regtrans-ms
+/NTUSER.DAT{cba41398-d4c3-11eb-a320-ab198e8280d1}.TM.blf
+/ntuser.dat.LOG2
+/ntuser.dat.LOG1
+/NTUSER.DAT
+/Music
+/Links
+/Koulu
+/jagex_cl_oldschool_LIVE.dat
+/jagexcache
+/IntelGraphicsProfiles
+/Henkilökohtainen kuukausibudjetti.xlsx
+/hello
+/Favorites
+/Downloads
+/Documents
+/Contacts
+/code
+/AppData
+/3D Objects
+/.wakatime.log
+/.wakatime.cfg
+/.wakatime.bdb
+/.wakatime
+/.vscode
+/.viminfo
+/.ssh
+/.runelite
+/.lesshst
+/.gitconfig
+/.bash_history
